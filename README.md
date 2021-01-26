@@ -12,3 +12,6 @@ to person B in exactly n direct relation hops. 1-level relation is a direct rela
 ## Goal
 
 Implement a utility that finds the minimal relation level between two people.
+
+
+![alt text](https://github.com/orrpaz/relationship/blob/main/relationship.jpg?raw=true)
